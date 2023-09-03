@@ -143,9 +143,9 @@ footer div{
 
 }
 @media only screen and (max-width: 500px){
-  .one { grid-area: 1 / 1/ 1 / 3; }
-  .two { grid-area: 2/ 1/ 2 / 3; }
-  .three { grid-area: 3 / 1 / 3 / 3; }
-  .four { grid-area: 4 / 1 / 4 / 3; }
-  .five { grid-area: 5 / 1 / 5 / 3; }
+  .one { grid-area: 1 / 1/ 1 / 7; }
+  .two { grid-area: 2/ 1/ 2 / 7; }
+  .three { grid-area: 3 / 1 / 3 / 7; }
+  .four { grid-area: 4 / 1 / 4 / 7; }
+  .five { grid-area: 5 / 1 / 5 / 7 ; }
 }
